@@ -1,0 +1,367 @@
+[{
+  "_id": {
+    "$oid": "64feae62b487f49893229420"
+  },
+  "Mã hóa đơn": "hd002",
+  "Ngày lập": {
+    "$date": "2021-12-20T00:00:00.000Z"
+  },
+  "Khách hàng": {
+    "Mã khách hàng": "kh002",
+    "Tên khách hàng": "Trần Thị Mai",
+    "Địa chỉ": "Hải Phòng"
+  },
+  "Sản phẩm bán": [
+    {
+      "Mã sp": "sp003",
+      "Tên sp": "Giày thể thao",
+      "Số lượng": 1,
+      "Giá bán": 300000,
+      "Thành tiền": 300000
+    },
+    {
+      "Mã sp": "sp004",
+      "Tên sp": "Áo khoác",
+      "Số lượng": 1,
+      "Giá bán": 500000,
+      "Thành tiền": 500000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64feb0feb487f49893229422"
+  },
+  "Mã hóa đơn": "hd004",
+  "Ngày lập": {
+    "$date": "2020-01-09T00:00:00.000Z"
+  },
+  "Khách hàng": {
+    "Mã khách hàng": "kh006",
+    "Tên khách hàng": "Trần Thị Tú",
+    "Địa chỉ": "Hải Phòng"
+  },
+  "Sản phẩm bán": [
+    {
+      "Mã sp": "sp007",
+      "Tên sp": "Giày thể thao",
+      "Số lượng": 1,
+      "Giá bán": 300000,
+      "Thành tiền": 300000
+    },
+    {
+      "Mã sp": "sp008",
+      "Tên sp": "Áo khoác",
+      "Số lượng": 1,
+      "Giá bán": 500000,
+      "Thành tiền": 500000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64feb0feb487f49893229423"
+  },
+  "Mã hóa đơn": "hd007",
+  "Ngày lập": {
+    "$date": "2021-11-10T00:00:00.000Z"
+  },
+  "Khách hàng": {
+    "Mã khách hàng": "kh007",
+    "Tên khách hàng": "Nguyễn Thị Hương",
+    "Địa chỉ": "Đà Nẵng"
+  },
+  "Sản phẩm bán": [
+    {
+      "Mã sp": "sp009",
+      "Tên sp": "Áo thun",
+      "Số lượng": 3,
+      "Giá bán": 150000,
+      "Thành tiền": 450000
+    },
+    {
+      "Mã sp": "sp010",
+      "Tên sp": "Quần jean",
+      "Số lượng": 2,
+      "Giá bán": 250000,
+      "Thành tiền": 500000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64feb0feb487f49893229424"
+  },
+  "Mã hóa đơn": "hd008",
+  "Ngày lập": {
+    "$date": "2022-02-15T00:00:00.000Z"
+  },
+  "Khách hàng": {
+    "Mã khách hàng": "kh008",
+    "Tên khách hàng": "Lê Văn Hòa",
+    "Địa chỉ": "TP.HCM"
+  },
+  "Sản phẩm bán": [
+    {
+      "Mã sp": "sp011",
+      "Tên sp": "Giày thể thao",
+      "Số lượng": 1,
+      "Giá bán": 300000,
+      "Thành tiền": 300000
+    },
+    {
+      "Mã sp": "sp012",
+      "Tên sp": "Áo khoác",
+      "Số lượng": 1,
+      "Giá bán": 500000,
+      "Thành tiền": 500000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64feb165b487f49893229425"
+  },
+  "Mã hóa đơn": "hd005",
+  "Ngày lập": {
+    "$date": "2021-10-20T00:00:00.000Z"
+  },
+  "Khách hàng": {
+    "Mã khách hàng": "kh005",
+    "Tên khách hàng": "Lê Thị Mai",
+    "Địa chỉ": "Hải Phòng"
+  },
+  "Sản phẩm bán": [
+    {
+      "Mã sp": "sp005",
+      "Tên sp": "Áo sơ mi",
+      "Số lượng": 2,
+      "Giá bán": 200000,
+      "Thành tiền": 400000
+    },
+    {
+      "Mã sp": "sp006",
+      "Tên sp": "Quần kaki",
+      "Số lượng": 1,
+      "Giá bán": 180000,
+      "Thành tiền": 180000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64feb165b487f49893229426"
+  },
+  "Mã hóa đơn": "hd006",
+  "Ngày lập": {
+    "$date": "2022-03-05T00:00:00.000Z"
+  },
+  "Khách hàng": {
+    "Mã khách hàng": "kh006",
+    "Tên khách hàng": "Nguyễn Văn Bình",
+    "Địa chỉ": "Hà Nội"
+  },
+  "Sản phẩm bán": [
+    {
+      "Mã sp": "sp007",
+      "Tên sp": "Giày thể thao",
+      "Số lượng": 2,
+      "Giá bán": 350000,
+      "Thành tiền": 700000
+    },
+    {
+      "Mã sp": "sp008",
+      "Tên sp": "Áo khoác",
+      "Số lượng": 1,
+      "Giá bán": 450000,
+      "Thành tiền": 450000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64feb359b487f49893229427"
+  },
+  "Mã hóa đơn": "hd001",
+  "Ngày lập": {
+    "$date": "2021-02-25T00:00:00.000Z"
+  },
+  "Khách hàng": {
+    "Mã khách hàng": "kh001",
+    "Tên khách hàng": "Trần Thị Lan",
+    "Địa chỉ": "TP.HCM"
+  },
+  "Sản phẩm bán": [
+    {
+      "Mã sp": "sp001",
+      "Tên sp": "Áo thun",
+      "Số lượng": 2,
+      "Giá bán": 150000,
+      "Thành tiền": 300000
+    },
+    {
+      "Mã sp": "sp002",
+      "Tên sp": "Quần jean",
+      "Số lượng": 1,
+      "Giá bán": 250000,
+      "Thành tiền": 250000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64feb98fb487f49893229428"
+  },
+  "Mã hóa đơn": "hd003",
+  "Ngày lập": {
+    "$date": "2020-03-25T00:00:00.000Z"
+  },
+  "Khách hàng": {
+    "Mã khách hàng": "kh003",
+    "Tên khách hàng": "Đỗ Thanh Bình",
+    "Địa chỉ": "Hà Nội"
+  },
+  "Sản phẩm bán": [
+    {
+      "Mã sp": "sp005",
+      "Tên sp": "Áo ba lỗ",
+      "Số lượng": 2,
+      "Giá bán": 170000,
+      "Thành tiền": 340000
+    },
+    {
+      "Mã sp": "sp006",
+      "Tên sp": "Quần tây",
+      "Số lượng": 2,
+      "Giá bán": 250000,
+      "Thành tiền": 500000
+    },
+    {
+      "Mã sp": "sp005",
+      "Tên sp": "Áo sơ mi",
+      "Số lượng": 2,
+      "Giá bán": 200000,
+      "Thành tiền": 400000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64fecabeb487f4989322942e"
+  },
+  "Mã hóa đơn": "hd011",
+  "Ngày lập": {
+    "$date": "2021-03-12T00:00:00.000Z"
+  },
+  "Khách hàng": {
+    "Mã khách hàng": "kh004",
+    "Tên khách hàng": "Lê Thị Minh",
+    "Địa chỉ": "Hà Nội"
+  },
+  "Sản phẩm bán": [
+    {
+      "Mã sp": "sp013",
+      "Tên sp": "Áo sơ mi",
+      "Số lượng": 3,
+      "Giá bán": 200000,
+      "Thành tiền": 600000
+    },
+    {
+      "Mã sp": "sp014",
+      "Tên sp": "Quần đùi",
+      "Số lượng": 2,
+      "Giá bán": 180000,
+      "Thành tiền": 360000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64fecabeb487f4989322942f"
+  },
+  "Mã hóa đơn": "hd012",
+  "Ngày lập": {
+    "$date": "2021-03-12T00:00:00.000Z"
+  },
+  "Khách hàng": {
+    "Mã khách hàng": "kh005",
+    "Tên khách hàng": "Phạm Đình Quang",
+    "Địa chỉ": "Hải Phòng"
+  },
+  "Sản phẩm bán": [
+    {
+      "Mã sp": "sp015",
+      "Tên sp": "Áo khoác",
+      "Số lượng": 1,
+      "Giá bán": 350000,
+      "Thành tiền": 350000
+    },
+    {
+      "Mã sp": "sp016",
+      "Tên sp": "Quần thể thao",
+      "Số lượng": 2,
+      "Giá bán": 280000,
+      "Thành tiền": 560000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64fecb73b487f49893229430"
+  },
+  "Mã hóa đơn": "hd013",
+  "Ngày lập": {
+    "$date": "2022-05-10T00:00:00.000Z"
+  },
+  "Khách hàng": {
+    "Mã khách hàng": "kh009",
+    "Tên khách hàng": "Nguyễn Văn Minh",
+    "Địa chỉ": "Hà Nội"
+  },
+  "Sản phẩm bán": [
+    {
+      "Mã sp": "sp012",
+      "Tên sp": "Áo khoác",
+      "Số lượng": 35,
+      "Giá bán": 450000,
+      "Thành tiền": 15750000
+    },
+    {
+      "Mã sp": "sp017",
+      "Tên sp": "Quần thể thao",
+      "Số lượng": 15,
+      "Giá bán": 320000,
+      "Thành tiền": 4800000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64fecb73b487f49893229431"
+  },
+  "Mã hóa đơn": "hd014",
+  "Ngày lập": {
+    "$date": "2022-06-25T00:00:00.000Z"
+  },
+  "Khách hàng": {
+    "Mã khách hàng": "kh010",
+    "Tên khách hàng": "Lê Thị Ngọc",
+    "Địa chỉ": "Hải Phòng"
+  },
+  "Sản phẩm bán": [
+    {
+      "Mã sp": "sp012",
+      "Tên sp": "Áo khoác",
+      "Số lượng": 40,
+      "Giá bán": 450000,
+      "Thành tiền": 18000000
+    },
+    {
+      "Mã sp": "sp018",
+      "Tên sp": "Áo sơ mi",
+      "Số lượng": 20,
+      "Giá bán": 300000,
+      "Thành tiền": 6000000
+    }
+  ]
+}]

@@ -1,0 +1,29 @@
+Buổi 2:
+Câu 1) Sử dụng cơ sở dữ liệu lưu trữ thông tin sinh
+viên, lớp, môn học được mô hình hóa bởi collection
+sinhvien. Viết các câu truy vấn sau:
+1/ Cho biết những sinh viên phái nữ có ngoại ngữ là Tiếng Anh
+2/ Liệt kê những sinh viên phái nam trên 22 tuổi
+3/ Liệt kê những sinh viên có họ tên bắt đầu bằng chữ T
+4/ Liệt kê những sinh viên có tên là Lan, chỉ hiển thị Mã sinh viên, Họ tên và Phái.
+5/ Tìm những sinh viên học các ngoại ngữ thuộc tập gồm: Tiếng Pháp, Tiếng Nhật
+6/ Liệt kê các sinh viên của 2 lớp có tên là 08DHTH và 09DHTH, hiển thị mã sinh
+viên và họ tên.
+7/ Liệt kê những sinh viên học lớp 09DHTH có tuổi <23 hoặc >25
+8/ Tìm những sinh viên lớp 09DHTH có ngoại ngữ Tiếng Pháp hoặc Tiếng Nhật
+9/ Những sinh viên học môn cơ sở dữ liệu có điểm >7.5
+
+65 Bộ môn HTTT
+
+Bài tập (tt)
+
+Câu 2) Sử dụng cơ sở dữ liệu quản lý bán sản
+phẩm viết các câu truy vấn sau:
+1/ Cho biết thông tin những hóa đơn được lập ngày 12/03/2021
+2/ Liệt kê Mã hóa đơn, ngày lập của khách hàng có mã số là kh001
+3/ Liệt kê những hóa đơn có bán sản phẩm có mã là sp012 với số
+lượng >30
+4/ Những hóa đơn nào được lập trong thời gian từ ngày 01/03/2020
+đến 30/05/2021
+5/ Liệt kê thông tin những hóa đơn không lập trong ngày 5/7/2020.
+Thông tin liệt kê gồm: Mã hóa đơn, ngày lập

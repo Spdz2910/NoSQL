@@ -1,0 +1,40 @@
+Bài tập NOQSL
+
+
+Buổi 1:
+1) Sử dụng cơ sở dữ liệu lưu trữ thông tin sinh
+viên, lớp, môn học được mô hình hóa bởi
+collection sinhvien. Thực hiện các yêu cầu sau:
+a/ Viết lệnh thêm vào collection sinhvien trong 2 trường hợp: thêm một
+và nhiều document.
+b/ Viết lệnh xóa document với điều kiện mã sinh viên là “sv005”
+c/ Viết lệnh xóa những sinh viên học lớp có mã lớp là l03
+d/ Viết lệnh sửa Họ tên của sinh viên có mã sv001 thành Đỗ Nhật Lâm
+e/ Sửa tuổi thành 25, Phái thành Nữ, Họ tên thành Trần Thị Lan cho
+sinh viên có mã là sv003
+f/ Sửa ngoại ngữ thứ 2 của sinh viên có mã sv003 thành Tiếng Hàn
+g/ Sửa điểm của sinh viên có mã sv003 học môn thứ 1 thành 9
+h/ Viết lệnh thay thế một document với _id được chỉ định.
+Bài tập (tt)
+2) Sử dụng cơ sở dữ liệu quản lý bán sản phẩm
+với collection hoadon có cấu trúc như sau:
+Collection: Hóa đơn
+{
+Mã hóa đơn: Chuỗi lưu mã số hóa đơn,
+Ngày lập: Ngày lập hóa đơn,
+Khách hàng: {Mã khách hàng, Tên khách hàng, Địa chỉ}
+Sản phẩm bán: [
+{Mã sp1, Tên sp1, số lượng, giá bán, thành tiền},
+{Mã sp2, Tên sp2, số lượng, giá bán, thành tiền}
+...
+]
+}
+Bài tập (tt)
+a/ Viết lệnh thêm vào 2 document vào collection hoadon.
+b/ Viết lệnh xóa những hóa đơn có ngày lập “2020-03-25”
+c/ Viết lệnh xóa những hóa đơn của khách hàng có mã là “kh001”
+d/ Viết lệnh sửa ngày lập của hóa đơn có mã h001 thành “2021-02-25”
+e/ Sửa thông tin khách hàng có mã là kh001 với Họ tên khách hàng
+thành Trần Thị Lan, địa chỉ thành TPHCM
+f/ Sửa tên khách hàng có mã kh003 thành Đỗ Thanh Bình
+g/ Thêm một sản phẩm vào hóa đơn có mã hd003

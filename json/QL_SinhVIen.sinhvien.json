@@ -1,0 +1,248 @@
+[{
+  "_id": {
+    "$oid": "64fdef51b487f49893229415"
+  },
+  "Masv": "sv001",
+  "Hoten": "Đỗ Nhật Lâm"
+},
+{
+  "_id": {
+    "$oid": "64fdf10bb487f49893229416"
+  },
+  "Masv": "sv002",
+  "Hoten": "Trần Minh"
+},
+{
+  "_id": {
+    "$oid": "64fdf10bb487f49893229417"
+  },
+  "Masv": "sv003",
+  "Hoten": "Trần Thị Lan",
+  "Phai": "Nữ",
+  "Tuoi": 25,
+  "Monhoc": {
+    "0": {
+      "Diem": 9
+    },
+    "1": {
+      "Ngoaingu2": "Tiếng Hàn",
+      "Diem": 9
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "64fdf15bb487f49893229418"
+  },
+  "Masv": "sv004",
+  "Hoten": "Trần Minh Nghĩa",
+  "Ngaysinh": {
+    "$date": "2001-04-14T00:00:00.000Z"
+  },
+  "Lop": {
+    "Malop": "l01",
+    "Tenlop": "08DHTH"
+  },
+  "Monhoc": [
+    {
+      "Mamh": "m001",
+      "Tenmh": "Cơ sở dữ liệu",
+      "Sotc": 3,
+      "Diem": 7.5
+    },
+    {
+      "Mamh": "m002",
+      "Tenmh": "Toán cao cấp",
+      "Sotc": 2,
+      "Diem": 9
+    },
+    {
+      "Mamh": "m003",
+      "Tenmh": "Công nghệ phần mềm",
+      "Sotc": 3,
+      "Diem": 8.5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64fe81b9b487f4989322941c"
+  },
+  "Masv": "sv008",
+  "Hoten": "Trần Văn Tú",
+  "Tuoi": 22,
+  "Phai": "Nam",
+  "Ngoaingu1": "Tiếng Anh",
+  "Ngoaingu2": "Tiếng Nhật",
+  "Lop": {
+    "Malop": "l01",
+    "Tenlop": "08DHTH"
+  },
+  "Monhoc": [
+    {
+      "Mamh": "m002",
+      "Tenmh": "Toán cao cấp",
+      "Sotc": 2,
+      "Diem": 8.9
+    },
+    {
+      "Mamh": "m005",
+      "Tenmh": "Lập trình Java",
+      "Sotc": 4,
+      "Diem": 9.8
+    },
+    {
+      "Mamh": "m009",
+      "Tenmh": "Kỹ thuật phần mềm",
+      "Sotc": 3,
+      "Diem": 8.6
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64fe8241b487f4989322941d"
+  },
+  "Masv": "000",
+  "Hoten": "Nguyễn Duy Thịnh"
+},
+{
+  "_id": {
+    "$oid": "64fec504b487f49893229429"
+  },
+  "Masv": "sv005",
+  "Hoten": "Nguyễn Thị Hương",
+  "Tuoi": 23,
+  "Phai": "Nữ",
+  "Ngoaingu1": "Tiếng Anh",
+  "Lop": {
+    "Malop": "l01",
+    "Tenlop": "08DHTH"
+  },
+  "Monhoc": [
+    {
+      "Mamh": "m001",
+      "Tenmh": "Cơ sở dữ liệu",
+      "Sotc": 3,
+      "Diem": 8.2
+    },
+    {
+      "Mamh": "m003",
+      "Tenmh": "Công nghệ phần mềm",
+      "Sotc": 3,
+      "Diem": 7.9
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64fec58eb487f4989322942a"
+  },
+  "Masv": "sv006",
+  "Hoten": "Nguyễn Văn Anh",
+  "Tuoi": 22,
+  "Phai": "Nam",
+  "Ngoaingu1": "Tiếng Anh",
+  "Lop": {
+    "Malop": "l03",
+    "Tenlop": "09DHTH"
+  },
+  "Monhoc": [
+    {
+      "Mamh": "m003",
+      "Tenmh": "Công nghệ phần mềm",
+      "Sotc": 3,
+      "Diem": 8.5
+    },
+    {
+      "Mamh": "m005",
+      "Tenmh": "Hệ điều hành",
+      "Sotc": 4,
+      "Diem": 7.5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64fec58eb487f4989322942b"
+  },
+  "Masv": "sv007",
+  "Hoten": "Trần Thị Mai",
+  "Tuoi": 21,
+  "Phai": "Nữ",
+  "Ngoaingu1": "Tiếng Pháp",
+  "Lop": {
+    "Malop": "l03",
+    "Tenlop": "09DHTH"
+  },
+  "Monhoc": [
+    {
+      "Mamh": "m002",
+      "Tenmh": "Toán cao cấp",
+      "Sotc": 4,
+      "Diem": 7.8
+    },
+    {
+      "Mamh": "m004",
+      "Tenmh": "Lập trình Java",
+      "Sotc": 4,
+      "Diem": 8
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64fec58eb487f4989322942c"
+  },
+  "Masv": "sv009",
+  "Hoten": "Nguyễn Thị Hương",
+  "Tuoi": 23,
+  "Phai": "Nữ",
+  "Ngoaingu1": "Tiếng Nhật",
+  "Lop": {
+    "Malop": "l03",
+    "Tenlop": "09DHTH"
+  },
+  "Monhoc": [
+    {
+      "Mamh": "m001",
+      "Tenmh": "Cơ sở dữ liệu",
+      "Sotc": 3,
+      "Diem": 9.2
+    },
+    {
+      "Mamh": "m003",
+      "Tenmh": "Công nghệ phần mềm",
+      "Sotc": 3,
+      "Diem": 8.8
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64fec58eb487f4989322942d"
+  },
+  "Masv": "sv010",
+  "Hoten": "Lê Văn Hòa",
+  "Tuoi": 24,
+  "Phai": "Nam",
+  "Ngoaingu1": "Tiếng Anh",
+  "Lop": {
+    "Malop": "l03",
+    "Tenlop": "09DHTH"
+  },
+  "Monhoc": [
+    {
+      "Mamh": "m002",
+      "Tenmh": "Toán cao cấp",
+      "Sotc": 4,
+      "Diem": 8.6
+    },
+    {
+      "Mamh": "m004",
+      "Tenmh": "Lập trình Java",
+      "Sotc": 4,
+      "Diem": 8.7
+    }
+  ]
+}]
